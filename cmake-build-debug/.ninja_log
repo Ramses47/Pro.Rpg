@@ -1,0 +1,9 @@
+# ninja log v5
+20	581	7400409802757483	CMakeFiles/practicas.dir/Orco.cpp.obj	1cd5cf86d32b9f2c
+35	584	7400409802757483	CMakeFiles/practicas.dir/Enemigo.cpp.obj	23b539eaabf46bf
+14	585	7400409802767552	CMakeFiles/practicas.dir/main.cpp.obj	cf6ee3879a3af9eb
+30	586	7400409802787621	CMakeFiles/practicas.dir/Duende.cpp.obj	9b6259dfac56a459
+25	590	7400409802852713	CMakeFiles/practicas.dir/AP.cpp.obj	eb08b9e2420acc19
+8	591	7400409802862798	CMakeFiles/practicas.dir/Personaje.cpp.obj	aa1873f95810d70
+1	591	7400409802862798	CMakeFiles/practicas.dir/AD.cpp.obj	515dcb9066162b6d
+591	841	7400409805355864	practicas.exe	70f00f8e6432ad
